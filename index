@@ -1,0 +1,78 @@
+
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="description" content="Codingsamples : ">
+
+    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+
+    <title>Codingsamples</title>
+  </head>
+
+  <body>
+
+    <!-- HEADER -->
+    <div id="header_wrap" class="outer">
+        <header class="inner">
+          <a id="forkme_banner" href="https://github.com/abhandary/CodingSamples">View on GitHub</a>
+
+          <h1 id="project_title">Patient Summary</h1>
+          <h2 id="project_tagline"></h2>
+
+            <section id="downloads">
+              <a class="zip_download_link" href="https://github.com/abhandary/CodingSamples/zipball/master">Download this app's ipa as a .zip file</a>
+              <a class="tar_download_link" href="https://github.com/abhandary/CodingSamples/tarball/master">Download this app's ipa as a tar.gz file</a>
+            </section>
+        </header>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h3>
+<a id="overview" class="anchor" href="#overview" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Overview.</h3>
+
+<p>Patient Summary provides an overview of patient health information to care coordinators as well as care givers. You can search for a patient by name, gender or identifier or choose from a list of all patients. You can retrieve encounters, immunizations, procedures, conditions, allergies or intolerances, medication orders, reports, and observations. The application provides secure access to patient data by providing authentication using OpenID.</p>
+
+<h3>
+<a id="initial-launch" class="anchor" href="#initial-launch" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Initial Launch</h3>
+
+<p>On initial launch you are provided with an option to search or choose from a list of all patients.</p>
+
+<h3>
+<a id="list-of-patients" class="anchor" href="#list-of-patients" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>List of Patients</h3>
+
+<p>The list of patients is refreshed as you scroll along the list, this improves the app’s performance and enables the app to scale as more patients are added to the system.</p>
+
+<h3>
+<a id="home-screen" class="anchor" href="#home-screen" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Home Screen</h3>
+
+<p>The home screen gives an overview of the summary items available.</p>
+
+<h3>
+<a id="details-screen" class="anchor" href="#details-screen" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Details Screen</h3>
+
+<p>Selecting a summary item such as Medication Order shows a list of all medication orders for the current patient.</p>
+
+<h3>
+<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
+
+<p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p class="copyright">Codingsamples maintained by <a href="https://github.com/abhandary">abhandary</a></p>
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a></p>
+      </footer>
+    </div>
+
+
+
+  </body>
+</html>
